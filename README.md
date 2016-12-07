@@ -1,5 +1,6 @@
-# CPlusPlus_to_C
+##CPlusPlus_to_C </br>
 
+##第一部分
 #
 const  常量。</br>
 bool   布尔型，占8位二进制位，值只有true和false两种，true相当于1，false相当于0。</br>
@@ -13,6 +14,7 @@ P46  代码3-4略过</br>
 P50  abs()是求整数的绝对值，fabs()求小数的绝对值</br>
 P52-P54  略过</br>
 
+##第二部分
 #第四章
 
 
