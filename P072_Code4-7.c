@@ -9,3 +9,4 @@ int firstIndex(int array[],int len,int element){
 	}
 	return -1;
 } 
+
