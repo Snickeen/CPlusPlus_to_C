@@ -1,7 +1,7 @@
 
 //代码4-10 求连续区间最大值的分治方法
 
-//求A[lo...hi]的连续区间的最大值。时间复杂度：O(nlogn)
+//求A[lo...hi]的连续区间的最大值。 时间复杂度：O(nlogn)
 int fastMaxSum(int A[],int lo,int hi){
 	//基本示例：区间长度为1
 	if(lo==hi)return A[lo];
@@ -31,3 +31,4 @@ int fastMaxSum(int A[],int lo,int hi){
 	if(left+right>single)return left+right;
 	else return single; 
 }
+
