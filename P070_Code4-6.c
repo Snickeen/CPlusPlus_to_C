@@ -20,3 +20,4 @@ int factor(int n){
 	}
 	return tot;
 }
+
