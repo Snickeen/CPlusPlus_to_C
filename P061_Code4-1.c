@@ -3,7 +3,6 @@
 
 //返回给定数组A中相同个数最多的数
 //如果多于两个，返回任意一个即可
-
 int majority1(int A[],int N){
 	int i,j,k,l;
 	int majority = -1, majorityCount = 0;
