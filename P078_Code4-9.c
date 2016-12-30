@@ -3,7 +3,7 @@
 
 //第一种方法 
 int MIN = (1<<32)-1;
-//求A[]连续区间的最大和。时间复杂度:O(N*N*N)
+//求A[]连续区间的最大和。 时间复杂度:O(N*N*N)
 int inefficientMaxSum(int A[],int len){
 	int i,j;
 	int ret = MIN;
@@ -21,7 +21,7 @@ int inefficientMaxSum(int A[],int len){
 
 //第二种方法 
 int MIN = (1<<32)-1;
-//求A[]连续区间的最大和。时间复杂度:O(N*N)
+//求A[]连续区间的最大和。 时间复杂度:O(N*N)
 int betterMaxSum(int A[],int len){
 	int i,j;
 	int ret = MIN;
