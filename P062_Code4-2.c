@@ -16,3 +16,4 @@ int majority2(int A[],int N){
 	} 
 	return majority;
 }
+
