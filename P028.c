@@ -21,4 +21,3 @@ int hasDuplicate(int a[], int len){
 				return 1;
 	return 0;
 }
-
