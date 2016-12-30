@@ -8,3 +8,4 @@ int isSorted(int seq[],int len){
 	} 
 	return 1;
 } 
+
