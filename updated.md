@@ -17,4 +17,6 @@
     Created P126-P142.
     Update README.md and update.md.
     P142_Code7-9.c will be updated again later.
-##2016 Dec 
+##2016 Dec 30
+    更新了一下之前的代码的某些备注信息。
+    
