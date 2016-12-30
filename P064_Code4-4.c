@@ -18,3 +18,4 @@ void mavingAverage1(double A[],int N,int M){
 	}
 	//ret[0,tot-1]即为答案，由于tot和ret[]定义为全局变量，不用返回
 }
+
