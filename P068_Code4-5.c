@@ -26,3 +26,4 @@ int selectMenu(int menu[],int food){
 	tot--;
 	return ret; 
 } 
+
