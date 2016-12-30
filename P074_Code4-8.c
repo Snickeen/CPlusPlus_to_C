@@ -6,7 +6,7 @@ void swap(int A[],int i,int j){
 	A[i]=A[j];
 	A[j]=t;
 } 
-
+//选择排序
 void selectionSort(int A[],int len){
 	int i,j,k;
 	for(i=0;i<len;i++){
@@ -18,7 +18,7 @@ void selectionSort(int A[],int len){
 		int tmp=A[i];A[i]=A[minIndex];A[minIndex]=tmp;
 	}
 } 
-
+//插入排序
 void insertionSort(int A[],int len){
 	int i,j;
 	for(i=0;i<len;i++){
